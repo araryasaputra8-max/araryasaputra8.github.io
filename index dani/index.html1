@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device=widht, initial-scale=1.0">
+	<title>OSAKA88</title>
+	<link rel="stylesheet" href="style.css1">
+
+	<!--favicon-->
+	<link rel="icon" type="image/png" href="favicon.png"
+</head>
+<body>	
+	<nav>
+		<div class="wrapper">
+			<div class="logo">
+				<a href="">
+					<img src="logo.gif.gif" alt="OSAKA88" style="height: 50px;">
+				</a>
+			</div>
+			  <div class="menu">
+				    <ul>
+						<li><a href="#Home">Home</a></li>
+						<li><a href="#Courses">Courses</a></li>
+						<li><a href="#Tutors">Tutors</li>
+						<li><a href="#Partners">Partners</li>
+						<li><a href="#Contact">Contact</li>
+						<li><a href="https://osaka88y.site/register" class="tbl-biru" target="_blank">sign up</a></li>
+				    </ul>
+			  </div>
+			</div>	
+		</div>		
+	</nav>
+	 	<div class="wrapper">
+			<!-- untuk home -->
+			<section id="Home">
+				<img src="imagecoding.jpg.png" alt="web development" width="600">
+				<div class="kolom"
+					<p class="dekripsi">Situs aman dan terpercaya #osaka88gacor</p>
+					<h2>Pasti cuan dan pasti Menang</h2>
+					<p>Situs nomor 1 di indonesia dengan sistem NRG </p>
+					<p><a href="https://osaka88y.site/"class="tbl-hitam" target="_blank">Mainkan Sekarang</a></p>
+				</div>					
+			</section>
+			
+			<!-- untuk courses -->
+			<section id="Courses">
+				<div class="kolom">
+					<p class="dekripsi">You Will Never Lose</p>
+					<h2>Smart Player</h2>
+					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo inventore minima consequatur explicabo in nesciunt eveniet ex dicta error, voluptatem doloribus, neque nulla ea odit fugit quibusdam veniam. Soluta, ullam?</p>
+					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo inventore minima consequatur explicabo in nesciunt eveniet ex dicta error, voluptatem doloribus, neque nulla ea odit fugit quibusdam veniam. Soluta, ullam?</p>
+					<p><a href="https://heylink.me/OSAKA88_OFFICIAL/" class="tbl-hitam" target="_blank">Media sosial Osaka88</a></p>
+				</div>
+				<img src="imagecourse.jpg.png" alt="web development" width="800" height="100">
+			</section> 
+
+			<!-- untuk Tutors -->
+			 <section id="Tutors">
+				<div class="tengah">
+					<div class="kolom">
+						<p class="dekripsi">Our Top Tutors</p>
+						<h2>Tutors</h2>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem exercitationem, doloremque iure qui possimus ea fugit repellat obcaecati, dicta reiciendis, mollitia alias sit hic veritatis doloribus commodi perferendis quam praesentium!</p>
+					</div>
+
+					<div class="tutors-list">
+						<div class="kartu-tutor">
+							<img src="imagetutorsvani.jpg.jpg" />
+							<p>Vani</p>
+						</div>
+						<div class="kartu-tutor">
+							<img src="imagetutorsfelicia.jpg.jpg" />
+							<p>Felicia</p>
+						</div>
+						<div class="kartu-tutor">
+							<img src="imagetutorsnisa.jpg.jpg" />
+							<p>Nisa</p>
+						</div>
+						<div class="kartu-tutor">
+							<img src="imagetutorsnadia.jpg.jpg" />
+							<p>Nadia</p>
+						</div>
+						
+					</div>
+				</div>
+			</section>
+
+			 <!-- untuk Partners-->
+			  <section id="Partners">
+				<div class="tengah">
+					<div class="kolom">
+						<p class="dekripsi">Our Top partners</p>
+						<h2>Partners</h2>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut in voluptates distinctio, commodi voluptate maiores odio neque iusto autem placeat blanditiis quae eligendi quod optio. Iste dolorum ratione illo fuga?</p>
+					</div>
+
+					<div class="partners-list">
+						<div class="kartu-partners">
+							<img src="imageparteners1.png"/>
+						</div>
+						<div class="kartu-partners">
+							<img src="imagepartners5.jpg"/>
+						</div>
+						<div class="kartu-partners">
+							<img src="imagepartners2.png"/>
+						</div>
+						<div class="kartu-partners">
+							<img src="imagepartners3.png"/>
+						</div>
+						<div class="kartu-partners">
+							<img src="imageparteners4.png"/>
+						</div>		
+					</div>
+				</div>
+			</section>
+		</div>
+
+		<div id="Contact">
+			<div class="wrapper">
+				<div class="footer">
+					<div class="footer-section">
+						<h3>Osaka88.</h3>
+						<p>Dengan menerapkan teknologi keamanan paling canggih yang tersedia saat ini, kami memastikan bahwa semua informasi pribadi dan transaksi anggota akan benar-benar aman..</p>
+					</div>
+					<div class="footer-section">
+						<h3>Abaout</h3>
+						<p>© 2020 OSAKA88 Seluruh Hak Cipta. | 18+</p>
+					</div>
+					<div class="footer-section">
+						<h3>Contact</h3>
+						<p>Live chat & Telegram</p>
+					</div>
+					<div class="footer-section">
+						<h3>Social</h3>
+						<p><b>Youtube:</b> Osaka88</p>
+					</div>
+				</div>
+			</div>
+		</div>	
+ 
+		<div id="copyright">
+			<div class="wrapper">
+				&copy; 2020. <b>Osaka88</b> All Rights Reserved
+			</div>
+		</div> 
+</body>
+</html> 
